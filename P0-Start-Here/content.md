@@ -11,11 +11,11 @@ We'll make all the art+music for your game, give you personalized game design an
 
 Check out Elemental Fury and Snake Snake on the App Store!
 
-[App Games](./1-Elemental+Fury+and+Snake+Snake.png "App Games")
+![App Games](./1-Elemental+Fury+and+Snake+Snake.png "App Games")
 
 Those were made by high school students! They learned through our tutorials and you will too. Our last project has you clone Angry Birds. That means you'll know how to make games that are at least as complicated as Angry Birds by the end of this!
 
-[Peeved Penguins Game](./2-penguins.png "Peeved Penguins Game")
+![Peeved Penguins Game](./2-penguins.png "Peeved Penguins Game")
 
 Our tutorials assume you have basic experience in object oriented programming and you'll need a Mac to install the required software.
 

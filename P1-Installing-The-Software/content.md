@@ -11,6 +11,6 @@ If you are running OSX 10.7 or earlier, first download the free upgrade to OSX 1
 
 Once it is done downloading, the Xcode application will appear in your applications folder. You can look for it using Spotlight (the magnifying glass in the top right corner).
 
-[Xcode](./1-xcodeSpotlight.png "Xcode")
+![Xcode](./1-xcodeSpotlight.png "Xcode")
 
 Well done, you're set to get started!
